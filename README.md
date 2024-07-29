@@ -1,6 +1,6 @@
-# Cars93 Data Visualization Project
+# Cars93 Data Visualisation Project
 ## Project Description
-This project showcases data visualizations created using the Seaborn library, based on the [Cars93](https://jse.amstat.org/v1n1/datasets.lock.html) dataset. The dataset contains information on 93 new cars for the 1993 model year, including various measures such as price, mpg ratings, engine size, body size, and feature indicators. With 26 variables, the dataset offers a broad range of statistical techniques typically found in introductory courses.
+This project showcases data visualisations created using the Seaborn library, based on the [Cars93](https://jse.amstat.org/v1n1/datasets.lock.html) dataset. The dataset contains information on 93 new cars for the 1993 model year, including various measures such as price, mpg ratings, engine size, body size, and feature indicators. With 26 variables, the dataset offers a broad range of statistical techniques typically found in introductory courses.
 
 ## Installation
 - Clone the repository:
