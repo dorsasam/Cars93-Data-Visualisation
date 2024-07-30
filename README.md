@@ -5,7 +5,7 @@ This project showcases data visualisations created using the Seaborn library, ba
 ## Installation
 - Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cars93-data-visualization.git
+git clone https://github.com/dorsasam/cars93-data-visualization.git
 ```
 - Navigate to the project directory:
 ```bash
